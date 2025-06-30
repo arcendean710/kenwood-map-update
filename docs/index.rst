@@ -3,7 +3,7 @@ How to Update Kenwood Map?
 
 Kenwood has earned a strong reputation in the automotive industry for producing high-quality audio and navigation systems. Whether you’re navigating city streets or exploring new routes on a road trip, having an up-to-date map system in your vehicle can make all the difference. A regular **Kenwood map update** ensures your navigation system delivers accurate routes, recognizes new roads, and provides current traffic information. Failing to update can result in delays, missed turns, or even incorrect directions.
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
